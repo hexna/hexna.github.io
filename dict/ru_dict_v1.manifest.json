@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "id": "ru_openrussian",
+  "name": "OpenRussian RU-ZH/EN",
+  "built_at": "2026-11-17",
+  "license": "CC BY-SA 4.0",
+  "source": "https://en.openrussian.org",
+  "translator": "google",
+  "entries": 87884,
+  "forms": 1033793,
+  "gloss_en": 43482,
+  "entries_zh": 50227,
+  "entries_with_tables": 84465,
+  "entries_with_sentences": 21178,
+  "file": "ru_dict_v1.sqlite.gz",
+  "bytes": 34836382,
+  "raw_bytes": 182857728,
+  "sha256": "c030e4e8f28f89d8f21ece528d0c0904c3b83fa988ff5ca7a95062dbb670bcd1"
+}
